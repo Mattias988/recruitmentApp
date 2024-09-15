@@ -2,12 +2,12 @@
     <footer class="bg-custom-grey text-white py-8">
       <div class="container mx-auto grid grid-cols-1 lg:grid-cols-2 gap-8">
         <div>
-          <h3 class="text-lg font-semibold mb-4 font-bebas">ID NOSTRUD ENIM ESSE CONSECTETUR IN EU MOLLIT FUGIAT AUTE. VELIT NULLA COMMODO.</h3>
+          <h3 class="text-lg font-semibold mb-4 ">ID NOSTRUD ENIM ESSE CONSECTETUR IN EU MOLLIT FUGIAT AUTE. VELIT NULLA COMMODO.</h3>
           <p class="text-sm ">
             Mauris varius ipsum mauris, rutrum lobortis magna efficitur a. Donec egestas, nisl vehicula feugiat ornare, diam turpis
             efficitur mi, ac venenatis eros ipsum ac arcu. Vestibulum et ...
           </p>
-          <p v-if="isExpanded[0]" class="text-sm mt-2 font-bebas">
+          <p v-if="isExpanded[0]" class="text-sm mt-2 ">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et
             dolore magna aliqua.
           </p>
@@ -18,12 +18,12 @@
         </div>
 
         <div>
-          <h3 class="text-lg font-semibold mb-4 font-bebas">ID NOSTRUD ENIM ESSE CONSECTETUR IN EU MOLLIT FUGIAT AUTE. VELIT NULLA COMMODO.</h3>
+          <h3 class="text-lg font-semibold mb-4 ">ID NOSTRUD ENIM ESSE CONSECTETUR IN EU MOLLIT FUGIAT AUTE. VELIT NULLA COMMODO.</h3>
           <p class="text-sm ">
             Mauris varius ipsum mauris, rutrum lobortis magna efficitur a. Donec egestas, nisl vehicula feugiat ornare, diam turpis
             efficitur mi, ac venenatis eros ipsum ac arcu. Vestibulum et ...
           </p>
-          <p v-if="isExpanded[1]" class="text-sm mt-2 font-bebas">
+          <p v-if="isExpanded[1]" class="text-sm mt-2">
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et
             dolore magna aliqua.
           </p>
@@ -39,7 +39,7 @@
       </div>
 
       <div class="container mx-auto flex flex-col lg:flex-row justify-between items-center space-y-4 lg:space-y-0">
-        <div class="font-semibold">Cars Spot</div>
+        <div class="font-semibold">CarsSpot</div>
         <a href="#" class="text-sm underline">Polityka prywatności</a>
       </div>
     </footer>
