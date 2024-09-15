@@ -2,7 +2,7 @@
     <section class="py-16 bg-gray-100">
       <div class="container mx-auto">
         <h3 class="text-2xl text-custom-blue text-left pb-3">Prezentacja firmy</h3>
-        <h2 class="text-5xl font-semibold text-left uppercase font-bebas">Zobacz naszą galerię zdjęć</h2>
+        <h2 class="text-5xl font-semibold text-left text-custom-grey uppercase font-bebas">Zobacz naszą galerię zdjęć</h2>
 
         <div class="mt-8 flex justify-left space-x-8">
           <button 
