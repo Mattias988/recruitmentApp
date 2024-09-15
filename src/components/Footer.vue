@@ -2,8 +2,8 @@
     <footer class="bg-custom-grey text-white py-8">
       <div class="container mx-auto grid grid-cols-1 lg:grid-cols-2 gap-8">
         <div>
-          <h3 class="text-lg font-bold mb-4 font-bebas">ID NOSTRUD ENIM ESSE CONSECTETUR IN EU MOLLIT FUGIAT AUTE. VELIT NULLA COMMODO.</h3>
-          <p class="text-sm font-bebas">
+          <h3 class="text-lg font-semibold mb-4 font-bebas">ID NOSTRUD ENIM ESSE CONSECTETUR IN EU MOLLIT FUGIAT AUTE. VELIT NULLA COMMODO.</h3>
+          <p class="text-sm ">
             Mauris varius ipsum mauris, rutrum lobortis magna efficitur a. Donec egestas, nisl vehicula feugiat ornare, diam turpis
             efficitur mi, ac venenatis eros ipsum ac arcu. Vestibulum et ...
           </p>
@@ -18,8 +18,8 @@
         </div>
 
         <div>
-          <h3 class="text-lg font-bold mb-4 font-bebas">ID NOSTRUD ENIM ESSE CONSECTETUR IN EU MOLLIT FUGIAT AUTE. VELIT NULLA COMMODO.</h3>
-          <p class="text-sm font-bebas">
+          <h3 class="text-lg font-semibold mb-4 font-bebas">ID NOSTRUD ENIM ESSE CONSECTETUR IN EU MOLLIT FUGIAT AUTE. VELIT NULLA COMMODO.</h3>
+          <p class="text-sm ">
             Mauris varius ipsum mauris, rutrum lobortis magna efficitur a. Donec egestas, nisl vehicula feugiat ornare, diam turpis
             efficitur mi, ac venenatis eros ipsum ac arcu. Vestibulum et ...
           </p>
