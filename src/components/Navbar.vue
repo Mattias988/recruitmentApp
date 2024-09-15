@@ -8,7 +8,6 @@
           </span>
         </div>
 
-        <!-- Przycisk menu hamburger na mobilnych urządzeniach -->
         <div class="lg:hidden">
           <button @click="isMobileMenuOpen = !isMobileMenuOpen" class="focus:outline-none">
             <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -17,19 +16,16 @@
           </button>
         </div>
 
-        <!-- Menu na urządzeniach powyżej lg -->
         <ul class="hidden lg:flex space-x-8">
           <li><a href="#gallery" class="hover:text-gray-400 text-black">Galeria zdjęć</a></li>
           <li><a href="#faq" class="hover:text-gray-400 text-black">FaQ</a></li>
         </ul>
 
-        <!-- Przycisk na desktopie -->
         <div class="hidden lg:block">
           <Button text="Zadzwoń do nas" class="bg-custom-blue hover:bg-transparent hover:text-custom-blue hover:border hover:border-custom-blue text-white px-4 py-2 rounded-lg" />
         </div>
       </div>
 
-      <!-- Mobilne menu -->
       <div v-if="isMobileMenuOpen" class="lg:hidden">
         <ul class="space-y-4 px-8 py-4 bg-white shadow-lg">
           <li><a href="#gallery" class="hover:text-gray-400 text-black">Galeria zdjęć</a></li>
@@ -51,7 +47,7 @@ export default {
   data() {
     return {
       isScrolled: false,
-      isMobileMenuOpen: false, // Nowa zmienna dla mobilnego menu
+      isMobileMenuOpen: false, 
     };
   },
   mounted() {
